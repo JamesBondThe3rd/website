@@ -1,16 +1,21 @@
 *{
-    background-color: blue;
+    background-color:#3D7CF2 ;
 }
 p {
-font-style: italic;
-
+    font-family: 'Italianno', cursive;
 }
+
 
 p {
     font-size: 3rem ;
 }
-
-
+a {
+    color:deeppink;
+    
+    }
+    p {
+        color:grey;
+        }
 
 
 
