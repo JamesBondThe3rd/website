@@ -12,14 +12,13 @@ title {
 }
 a {
     color:white;
-    
+    text-decoration: none;
+    padding: 20px;
     }
     p {
         color:white;
         }
-*{
-    text-align: center;
-}
+
 
 
 
