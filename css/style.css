@@ -2,7 +2,7 @@
 *{
     background-color:#3D7CF2 ;
 }
-p{
+p {
     font-family: 'Source Sans Pro', sans-serif; 
 }
 
@@ -15,7 +15,7 @@ a {
     text-decoration: none;
     padding: 20px;
     }
-    p {
+    * {
         color:#BCC9D1;
         }
 ul{
