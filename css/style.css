@@ -2,8 +2,8 @@
 *{
     background-color:#3D7CF2 ;
 }
-p {
-    font-family: 'Italianno', cursive;
+p{
+    font-family: 'Source Sans Pro', sans-serif; 
 }
 
 
@@ -11,12 +11,12 @@ title {
     font-size: 3rem ;
 }
 a {
-    color:white;
+    color:#BCC9D1;
     text-decoration: none;
     padding: 20px;
     }
     p {
-        color:white;
+        color:#BCC9D1;
         }
 
 
