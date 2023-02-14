@@ -40,3 +40,17 @@ a {
     background-color: #32E1F9;
     border: 5px outset #3f4ae0;
     }
+    ul li {
+
+        list-style-type: square;
+        
+        padding: 5px;
+        
+        }
+        ol li {
+
+            list-style-type: decimal;
+            
+            padding: 5px;
+            
+            }
