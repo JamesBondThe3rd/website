@@ -1,7 +1,5 @@
 
-*{
-    background-color:#3D7CF2 ;
-}
+
 p {
     font-family: 'Source Sans Pro', sans-serif; 
     border: 30px;
@@ -59,8 +57,11 @@ a {
                 width: 90%
                 
                 }
+                * {
 
-
+                    background:  linear-gradient (to right, red, yellow);
+                      
+                      }
 
 
 
